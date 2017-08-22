@@ -4,13 +4,7 @@ import { Link } from 'react-router-dom'
 const NavFooter = props => {
   return (
     <footer className="h3 flex flex-row justify-between items-center bg-light-green">
-      <div className="ml4 white">
-        <Link className="link black-80" to="/">
-          <i className="db tc ion-person-stalker" />
-          Logout
-        </Link>
-      </div>
-      <div>
+      <div className="ml4">
         <Link className="link black-80" to="/alerts">
           <i className="db tc ion-person" />
           Alerts

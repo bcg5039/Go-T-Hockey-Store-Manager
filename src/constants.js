@@ -1,1 +1,3 @@
 export const SET_STICK_DATA = 'SET_STICK_DATA'
+export const SET_LOW_INV_STICKS = 'SET_LOW_INV_STICKS'
+export const SET_ORDER_AMT = 'SET_ORDER_AMT'

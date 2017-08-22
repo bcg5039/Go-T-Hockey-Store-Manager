@@ -9,8 +9,8 @@ const Home = () => {
         <h1> WELCOME </h1>
       </div>
       <div className="tc pa4">
-        <Link to="/login">
-          <Button>Login</Button>
+        <Link to="/alerts">
+          <Button>Get Started</Button>
         </Link>
       </div>
     </div>
